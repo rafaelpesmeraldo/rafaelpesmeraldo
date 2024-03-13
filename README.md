@@ -2,6 +2,8 @@
 
 👋 Olá! Eu sou Rafael Esmeraldo, um entusiasta da tecnologia apaixonado por aprender e criar coisas novas.
 
+- 🎓 Em formação na trilha Full Stack da Alura e em Análise e Desenvolvimento de Sistemas na Uninassau.
+
 - 🔭 Atualmente estou trabalhando como Motorista de aplicativo na Uber, onde me dedico a proporcionar viagens seguras e confortáveis para os meus passageiros, enquanto mantenho um alto nível de serviço e profissionalismo.
   
 - 🌱 Estou constantemente aprendendo novas tecnologias e conceitos, com foco atual em Front-end. Recentemente, tenho me dedicado especialmente a aprender Javascript e React.
