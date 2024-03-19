@@ -12,7 +12,7 @@
 
 - 💬 Você pode me perguntar sobre front-end development, informática básica, ou sobre minha experiência como motorista de aplicativo. Estou sempre disposto a compartilhar conhecimento e ajudar onde puder.
 
-- 📫 Se você deseja entrar em contato comigo, sinta-se à vontade para enviar um e-mail para rafaelpesmeraldo@gmail.com ou me encontrar nas redes sociais em [LinkedIn](https://www.linkedin.com/in/rafael-esmeraldo-95b555297/) ou [Twitter](https://twitter.com/RafinhaPE).
+- 📫 Se você deseja entrar em contato comigo, sinta-se à vontade para enviar um e-mail para rafaelpesmeraldo@gmail.com.
 
 - ⚡ Curiosidade: Sou cristão e creio no Senhor Jesus. Além disso, gosto muito de descobrir novas tecnologias e estudá-las.
 
@@ -20,9 +20,6 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" /> |
 |---|---|---|---|---|---|---|
 
-                  
-
-          
-          
-          
-          
+### Redes Sociais:
+| [![Twitter](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg)](https://twitter.com/RafinhaPE) | [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/rafael-esmeraldo-95b555297/) |
+|---|---|
