@@ -1,4 +1,4 @@
-### <span style="color: #39ff14">💡 Sobre Mim</span>
+### 🟩 **Sobre Mim**
 
 👋 Olá! Eu sou Rafael Esmeraldo, um entusiasta da tecnologia apaixonado por aprender e criar coisas novas.
 
@@ -16,11 +16,10 @@
 
 - ⚡ Curiosidade: Sou cristão e creio no Senhor Jesus. Além disso, gosto muito de descobrir novas tecnologias e estudá-las.
 
-### <span style="color: #39ff14">🛠️ Ferramentas e tecnologias que estudo:</span>
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" /> |
+### 🟩 **Ferramentas e tecnologias que estudo:**
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubcodespaces/githubcodespaces-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" /> |
 |---|---|---|---|---|---|---|
 
-### <span style="color: #39ff14">🔗 Redes Sociais:</span>
-| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="40" height="40" />](https://twitter.com/RafinhaPE) | 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" />](https://www.linkedin.com/in/rafael-esmeraldo-95b555297/) |
-|---|---|
+### 🟩 **Redes Sociais:**
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" />](https://twitter.com/RafinhaPE)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />](https://www.linkedin.com/in/rafael-esmeraldo-95b555297/)
