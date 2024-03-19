@@ -21,5 +21,5 @@
 |---|---|---|---|---|---|---|
 
 ### 🟩 **Redes Sociais:**
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" />](https://twitter.com/RafinhaPE)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />](https://www.linkedin.com/in/rafael-esmeraldo-95b555297/)
+| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" />](https://twitter.com/RafinhaPE) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />](https://www.linkedin.com/in/rafael-esmeraldo-95b555297/) |
+|---|---|
