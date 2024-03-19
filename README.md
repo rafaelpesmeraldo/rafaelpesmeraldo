@@ -16,3 +16,5 @@
 
 - ⚡ Curiosidade: Sou cristão e creio no Senhor Jesus. Além disso, gosto muito de descobrir novas tecnologias e estudá-las.
 
+### Estou aprendendo: HTML
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
